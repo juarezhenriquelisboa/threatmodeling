@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "Threat Title",
+    "owner": "Owner",
+    "description": "A high level description of system"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "linddun diagram",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "Reviewer"
+  }
+}
